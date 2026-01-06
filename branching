@@ -1,1 +1,0 @@
-In Git, a branch is a lightweight, movable pointer to a specific commit. It represents an independent line of development, allowing you to diverge from the main codebase (often the main or master branch) to experiment, add features, or fix bugs without affecting the stable version of the project
